@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hello Shivam
+=======
+Hello Shivam 
+
+React Developer
+>>>>>>> new
