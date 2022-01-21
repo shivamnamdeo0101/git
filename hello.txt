@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 SHivam Namdeo init
+=======
+Helo Shivam
+>>>>>>> parent of d5672cf (helo)
